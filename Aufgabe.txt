@@ -20,4 +20,4 @@ Ort 4: Aula
 
 Sehr gut, du bist also nun imstande, dich mit Essen zu versorgen, während dem du in der Berufsschule bist.
 Ort 5: Velokeller
-Ort 8: Parkplätze
+Ort 6: Parkplätze
