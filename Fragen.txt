@@ -2,7 +2,7 @@ Hier werden die Rätselfragen hineingeschrieben.
 
 Ort 1: Mensa
 Ort 2: Ausgang richtung Sporthalle
-Ort 3: Aula
+Ort 3: Fundgrube Sporthalle auf Fundgrube BBZG hinweisen
 Ort 4: Aussenbereich Mensa
 Ort 5: Velokeller
 Ort 6: Sporthalle
