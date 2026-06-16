@@ -7,7 +7,7 @@ Aufgabe: Als erstes suchen wir nach der Mensa. Gehe dafür nach rechts. Hast du 
 Ort 1: Mensa
 
 Aufgabe: Top, nun weisst du, wo du Essen holen kannst. Weisst du aber auch, wie du am besten zur Sporthalle kommst, ohne aussen am Gebäude entlang zu laufen? Gehe dazu auf die andere Seite des Gebäudes zum Treppenhaus im Erdgeschoss. Wenn du nun dort aus der Tür Richtung Wald gehst, läufst du über eine kleine Treppe. Wie viele Stufen hat diese?
--> 
+-> 6 Tritte
 Ort 2: Ausgang Richtung Sporthalle
 
 Perfekt, Zählen gehört anscheinend zu deinen Kompetenzen. Falls du einmal etwas verlierst, kannst du in einer der Fundgruben danach suchen gehen. Die Fundgrube der Sporthalle findest du in der Sporthalle. 
