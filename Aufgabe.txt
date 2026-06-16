@@ -18,6 +18,10 @@ Richtig! Nun möchten wir zur Aula gehen. Wo findest du  Unser nächstes Ziel is
 ->
 Ort 4: Aula
 
-Sehr gut, du bist also nun imstande, dich mit Essen zu versorgen, während dem du in der Berufsschule bist.
+Sehr gut, du bist also nun imstande, dich mit Essen zu versorgen, während dem du in der Berufsschule bist. Wur wollen nun unser Velo parkieren. Findest du den Velokeller? Wie viele Balken sind im Keller?
+
 Ort 5: Velokeller
+
+Perfekt! Jetzt kannst du auch mit dem Velo oder dem Motorrad kommen. Als nächstes möchten wir zu den Parkplätze. Weisst du welche für die Lernenden und welche für die Lehrer gedacht sind? WIe viele Parkplätze befinden sich an der Strasse?
+
 Ort 6: Parkplätze
