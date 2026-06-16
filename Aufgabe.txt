@@ -18,11 +18,11 @@ Richtig! Nun möchten wir zur Aula gehen. Unser nächstes Ziel ist die Aula. Daf
 ->
 Ort 4: Aula
 
-Sehr gut, du bist also nun imstande, dich mit Essen zu versorgen, während dem du in der Berufsschule bist. Wur wollen nun unser Velo parkieren. Findest du den Velokeller? Wie viele Balken sind im Keller?
+Sehr gut, du bist also nun imstande, dich mit Essen zu versorgen, während dem du in der Berufsschule bist. Wur wollen nun unser Velo parkieren. Dafür musst du ein Stockwerk weiter runter und auch im hinteren Gang suchen. Findest du den Velokeller? Wie viele Balken sind im Keller?
 
 Ort 5: Velokeller
 
-Perfekt! Jetzt kannst du auch mit dem Velo oder dem Motorrad kommen. Als nächstes möchten wir zu den Parkplätze. Weisst du welche für die Lernenden und welche für die Lehrer gedacht sind? WIe viele Parkplätze befinden sich an der Strasse?
+Perfekt! Jetzt kannst du auch mit dem Velo oder dem Motorrad kommen. Als nächstes möchten wir zu den Parkplätze. Dafür müssen wir zurück zum Eingang und die Treppe runter. Weisst du welche für die Lernenden und welche für die Lehrer gedacht sind? WIe viele Parkplätze befinden sich an der Strasse?
 
 Ort 6: Parkplätze
 -> 8
